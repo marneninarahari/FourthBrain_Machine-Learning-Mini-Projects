@@ -7,7 +7,3 @@
 ### 3. Build a model to predict that some product will be purchased or not using Walmart server data access to time-stamped data regarding product viewing/carting/purchasing.
 
 ### 4. Zero Shot Learning (ZSL) or learning when NO prior similar Training data has been encountered.
-
-### Development Environment
-### Programming language: Python
-### Libraries used: pandas, numpy, sklearn, scipy, matplotlib, seaborn, statsmodels, PIL, DataLoader, os
