@@ -8,3 +8,6 @@
 
 ### 4. Zero Shot Learning (ZSL) or learning when NO prior similar Training data has been encountered.
 
+### Development Environment
+### Programming language: Python
+### Libraries used: pandas, numpy, sklearn, scipy, matplotlib, seaborn, statsmodels, PIL, DataLoader, os
